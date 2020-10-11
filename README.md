@@ -192,6 +192,7 @@ to potential employers. Score well on one of our public tests, and you will get 
 - **Cracking the Coding Interview** ([pdf](https://inspirit.net.in/books/placements/Cracking%20the%20Coding%20Interview.pdf), [pdf alt](https://github.com/navyifanr/Cracking_the_coding_interview/blob/master/Cracking%20the%20coding%20interview-ctci.pdf))
 
 - :octocat: **amilajack/reading** - list of computer science readings with book pdfs - https://github.com/amilajack/reading - Reading List: 
+- **Learning Algorithm - https://www.amazon.in/Introduction-Algorithms-Eastern-Economy-Thomas/dp/8120340078
 
 ## Algorithm visualization
 
